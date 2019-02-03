@@ -24,17 +24,17 @@ except ImportError:
     import json
 
 example_post = {
-    "bot_id": 305177429612298242,
-    "to_bot": "Tatsumaki",
+    "bot_id": 521303012233183232,
+    "to_bot": Thunder The Bot",
     "amount": 5000,
-    "user_id": 122739797646245899,
-    "server_id": 166349353999532035
+    "user_id": 477463812786618388,
+    "server_id": 528115053736493086
 }
 
 bot_db = {
     'id': 305177429612298242,
-    'url': "http://api.typheus.me",
-    'name': "RPGBot",
+    'url': "http://MasterNova.me",
+    'name': "MasterNova",
     'type': 0
 }
 
@@ -46,7 +46,7 @@ user_db = {
 }
 
 example_hook = {
-    "from_bot": "RPGBot",
+    "from_bot": "MaterNova",
     "amount": 5000,
     "server_id": 166349353999532035,
     "to_bot": "Tatsumaki"
