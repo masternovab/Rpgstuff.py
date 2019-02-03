@@ -1,0 +1,1037 @@
+{
+  "Cannot purge more than 100 messages!": {
+    "fr": "Impossible de supprimer plus de 100 messages.",
+    "de": "Benutzer hat keinen auswählbaren Charakter",
+    "ru": "Нельзя удалить более 100 сообщений!",
+    "es": "No se pueden eliminar más de 100 mensajes."
+  },
+  "{} has no characters to display": {
+    "fr": "{} n'a aucun personnage à afficher",
+    "de": "Keine Charaktere anzeigbar",
+    "ru": "{} не имеет персонажей",
+    "es": "{} no tiene personajes"
+  },
+  "No characters to display": {
+    "fr": "Aucun personnage à afficher",
+    "de": "Keine Charaktere anzeigbar",
+    "ru": "Нет персонажей для показа",
+    "es": "No hay personajes personajes a mostrar"
+  },
+
+  "Character {} does not exist!": {
+    "fr": "Le personnage {} n'existe pas",
+    "de": "Charakter {} existiert nicht",
+    "ru": "Персонаж {} не существует",
+    "es": "El personaje {} no existe"
+  },
+  "Name": {
+    "fr": "Nom",
+    "de": "Name",
+    "ru": "Имя",
+    "es": "Nombre"
+  },
+  "Owner": {
+    "fr": "Propriétaire",
+    "de": "Eigenschaften",
+    "ru": "Владелец",
+    "es": "Propietario"
+  },
+  "Level": {
+    "fr": "Niveau",
+    "de": "Ebene",
+    "ru": "Уровень",
+    "es": "Nivel"
+  },
+  "Empty": {
+    "fr": "Vide",
+    "de": "Leere",
+    "ru": "Пусто",
+    "es": "Vacío"
+  },
+  "Team": {
+    "fr": "Équipe",
+    "de": "Ausrüstung",
+    "ru": "Команда",
+    "es": "Equipo"
+  },
+  "Additional Info": {
+    "fr": "Informations supplémentaires",
+    "de": "Zusätzliche Informationen",
+    "ru" : "Дополнительная информация",
+    "es": "Información adicional"
+  },
+  "Only Bot Mods/Bot Admins may make characters for other players!": {
+    "fr": "Il faut etre `Bot Mod` ou `Bot Admin` pour créer un personnage pour les autres",
+    "ru": "Только Bot Mods/Bot Admins может делать персонажей для других игроков",
+    "es": "Solo Bot Mods/Bot Admins pueden crear personajes para otros jugadores"
+  },
+  "A character with this name already exists!": {
+    "fr": "Un personnage a déjà ce nom",
+    "ru": "Персонаж с таким именем уже существует",
+    "es": "Ya existe un personaje con este nombre"
+  },
+  "Describe the character (Relevant character sheet) (Say `done` when you're done describing)": {
+    "fr": "Décrivez le personnage (Fiche associée du personnage) (Tapez `done` quand vous avez fini)",
+    "ru": " Опишите персонажа (Внешность, характер) (Скажите 'done' , когда закончите описание)",
+    "es": "Describe el personaje (Personaje asociado a la ficha) (Escriba `done`cuando haya acabado de escribir"
+  },
+  "What level is the character?": {
+    "fr": "Quel est le niveau du personnage ?",
+    "ru": "Какого уровня выш персонаж?",
+    "es": "¿Cuál es el nivel del personaje?"
+  },
+  "Any additional info? (Add a character image using the image keyword. Formats use regular syntax e.g.  (Separate keys with commas or newlines)": {
+    "fr": "Des informations supplémentaires ? (Ajouter une image au personnage avec le mot-clé `image`, comme ceci : `image: http://image.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou des retours à la ligne)",
+    "ru": "Дополнительна информация.(Добавьте персонажу картинку используя команды: 'image: http://image.com/image.jpg, hair_color:Темные волосы,nickname:Кевин' (Разделяйте команды запятыми)",
+    "es": "¿Alguna información adicional? (Añade una imágen al personaje  usango la palabra clave image. El formato debe seguir la sintaxis regular p.e. `image: http://image.com/image.jpg, hair_color: blond, nickname: Kevin`(Separe las claves con comas u otra línea))"
+  },
+  "Cancelling!": {
+    "fr": "Commande annulée !",
+    "ru": "Закрыто!",
+    "es": "¡Cancelado!"
+  },
+  "Skipping!": {
+    "fr": "Étape sautée !",
+    "ru": "Пропущено!",
+    "es": "¡Saltando!"
+  },
+  "Character created! rp!team addmember to add Pokemon (optional) to your character's team!": {
+    "fr": "Personnage créé ! Tapez `rp!team addmember` pour ajouter des Pokemons (optionel) à votre équipe !",
+    "ru": "Персонаж создан! Если хотите добавить персонажа в команду, используете rp!team addmember",
+    "es": "¡Personaje creado! rp!team addmembet para añadir un Pokémon (opcional) al equipo de tu personaje"
+  },
+  "That character doesn't exist!": {
+    "fr": "Ce personnage n'existe pas !",
+    "ru": "Персонаж не существует!",
+    "es": "El personaje no existe"
+  },
+  "You do not own this character!": {
+    "fr": "Vous n'êtes pas le propriétaire de ce personnage !",
+    "ru": "Вы не владелец этого персонажа!",
+    "es": "No eres el propietario del personaje"
+  },
+  "Character deleted": {
+    "fr": "Personnage supprimé",
+    "ru": "Персонаж удален",
+    "es": "Personaje borrado"
+  },
+  "Invalid formatting! Try again": {
+    "fr": "Syntaxe invalide !",
+    "ru": "Не правильный формат, попробуй снова",
+    "es": "Formato no válido"
+  },
+  "That is not a valid item! Try again": {
+    "fr": "Cet item n'existe pas !",
+    "ru": "Этот предмет не действителен! Попробуй еще",
+    "es": "¡Este no es un item válido! Vuelve a intentarlo"
+  },
+  "Character edited!": {
+    "fr": "Personnage modifié",
+    "ru": "Персонаж изменен!",
+    "es": "Personaje editado"
+  },
+  "{} has {} dollars": {
+    "fr": "{} a {} dollars",
+    "ru": "{} имеет {} dollars",
+    "es": "{} tiene {} dollars"
+  },
+  "Balances changed": {
+    "fr": "Solde changé",
+    "ru": "Баланс изменен",
+    "es": "Balance cambiado"
+  },
+  "Money given": {
+    "fr": "Argent donné",
+    "ru": "Деньги выданы",
+    "es": "Dinero dado"
+  },
+  "Successfully paid {} dollars to {}": {
+    "fr": "Payé {} dollars à {} avec succès",
+    "ru": "Успешно выплачено {} dollars для{}",
+    "es": "Pago de {} dollars a {} satisfactorio"
+  },
+  "\u27A1 to see the next page\n\u2B05 to go back\n\u274C to exit": {
+    "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        ",
+    "ru": "\n        \u27A1 переход на следующую страницу\n        \u2B05 возврат\n        \u274C выход\n        ",
+    "es": "\n        \u27A1 para ver la siguente página\n        \u2B05 para volver\n        \u274C para salir\n        "
+  },
+  "No items on the market to display.": {
+    "fr": "Aucun item sur le marché",
+    "ru": "Нет предметов в магазине для отображения.",
+    "es": "No hay items en el mercado"
+  },
+  "Player Market": {
+    "fr": "Marché des joueurs",
+    "ru": "Игровой магазин",
+    "es": "Mercado de jugadores"
+  },
+  "ID": {
+    "fr": "ID",
+    "ru": "ID",
+    "es": "ID"
+  },
+  "COST": {
+    "fr": "COÛT",
+    "ru": "Стоимость",
+    "es": "Costo"
+  },
+  "NUMBER": {
+    "fr": "NOMBRE",
+    "ru": "Число",
+    "es": "Número"
+  },
+  "ITEM": {
+    "fr": "ITEM",
+    "ru": "Предмет",
+    "es": "ITEM"
+  },
+  "SELLER": {
+    "fr": "VENDEUR",
+    "ru": "Продавец",
+    "es": "VENDEDOR"
+  },
+  "Timed out! Try again": {
+    "fr": "Fin du temps ! Réessayez",
+    "ru": "Время вышло! Начни заново",
+    "es": "¡Tiempo agotado! Vualva a intentarlo"
+  },
+  "You don't have enough of these to sell!": {
+    "fr": "Vous n'en avez pas assez pour en vendre !",
+    "ru": "У вас не хватает предметов для продажи",
+    "es": "No tienes suficientes items de estos para vender"
+  },
+  "Item listed!": {
+    "fr": "Item listé !",
+    "ru": "Перечень товаров!",
+    "es": "Items listados"
+  },
+  "That is not a valid ID!": {
+    "fr": "Ce n'est pas un ID valide !",
+    "ru": "Неверный ID",
+    "es": "La ID no es válida"
+  },
+  "You cant afford this item!": {
+    "fr": "Vous ne pouvez pas acheter cet item !",
+    "ru": "Вы не можете позволить купить себе этот товар!",
+    "es": "No puedes permitirte comprar este item"
+  },
+  "Items successfully bought": {
+    "fr": "Items achetés avec succès",
+    "ru": "Предмет успешно куплен",
+    "es": "Item comprado"
+  },
+  "{} bought {} {} from you for {} dollars with ID {} on server {}": {
+    "fr": "{} a acheté {} {} de vous pour {} dollars avec l'ID {} sur le serveur {}",
+    "ru": "{} купил {} {} у вас за {} dollars его ID {} на сервере {}",
+    "es": "{} ha comprado {} {} de ti {} dollars con ID {} del servidor {}"
+  },
+  "This is not your item to remove!": {
+    "fr": "Ce n'est pas à vous de supprimer cet item !",
+    "ru": "Это не ваш предмет! Вы не можете его удалить!",
+    "es": "Este objeto no es tuyo a eliminar"
+  },
+  "Jackpot: {} dollars\n{} players entered": {
+    "fr": "Cagnotte: {} dollars\n{} joueurs participent",
+    "ru": "Джекпот: {} dollars\n{} игроков вошло",
+    "es": "Lotería: {} dollars\n{} jugadores han entrado"
+  },
+  "No lotteries currently running!": {
+    "fr": "Aucune loterie n'a été lancée !",
+    "ru": "В данный момент нет лотерей!",
+    "es": "No hay loterías disponibles ahora mismo"
+  },
+  "A lottery of that name already exists!": {
+    "fr": "Une loterie avec ce nom existe déjà !",
+    "ru": "Лотерея с таким именем уже существует!",
+    "es": "Ya existe una lotería con este nombre"
+  },
+  "Lottery created!": {
+    "fr": "Loterie créée !",
+    "ru": "Лотерея создана!",
+    "es": "Lotería creada"
+  },
+  "Lottery {} is now over!\n{} won {}! Congratulations!": {
+    "fr": "La loterie {} est maintenant terminée !\n{} a gagné(e) {} ! Toutes nos félicitations !",
+    "ru": "Лотерея {} началачь!\n{} выиграл {}! Поздравляем!",
+    "es": "¡La lotería {} ha terminado!\n{} ¡Ha ganado {}! ¡Enhorabuena!"
+  },
+  "Nobody entered {}! Its over now.": {
+    "fr": "Personne n'a participé à la loterie {} ! Elle est maintenant terminée.",
+    "ru": "Никто не заходит в {}! Закрываю.",
+    "es": "Nadie ha entrado {}. Ha terminado ya."
+  },
+  "Lotto entered!": {
+    "fr": "Vous êtes entré dans la loterie !",
+    "ru": "Кто-то присоединился к лото!",
+    "es": "Has entrado a la lotría"
+  },
+  "You're already in this lotto!": {
+    "fr": "Vous êtes déjà dans cette loterie !",
+    "ru": "Вы уже в этом лото!",
+    "es": ""
+  },
+  "This server has no lotto by that name! See rp!lotto": {
+    "fr": "Ce serveur n'a aucune loterie avec ce nom ! Pour voir la liste des loteries, tapez rp!lotto",
+    "ru": "На этом сервере нет лото с таким именем! Напиши rp!lotto"
+  },
+  "This server has no lottos currently running!": {
+    "fr": "Il n'y a aucune loterie en cours sur ce serveur !",
+    "ru": "На этом сервере нет активных лото!"
+  },
+  "No items in the shop to display.": {
+    "fr": "Il n'y a aucun item dans le shop",
+    "ru": "Нет предметов в магазине"
+  },
+  "Server Shop": {
+    "fr": "Shop du serveur",
+    "ru": "Серверный магазин"
+  },
+  "Say 'cancel' to cancel or 'skip' to skip a step": {
+    "fr": "Tapez 'cancel' pour annuler, ou 'skip' pour sauter une étape",
+    "ru": "Напиши 'cancel' для закрытия или 'skip', чтобы пропустить шаг"
+  },
+  "How much should this be buyable for? 0 for not buyable": {
+    "fr": "Pour combien devrait-il être acheté ? (0 pour non-achetable)",
+    "ru": "За сколько это можно купить? 0 если нельзя купить"
+  },
+  "That is not a valid number!": {
+    "fr": "Ce n'est pas un nombre valide !",
+    "ru": "Это не число!"
+  },
+  "How much should this be sellable for? 0 for not sellable": {
+    "fr": "Pour combien devrait-il être vendu ? (0 pour non-vendable)",
+    "ru": "За сколько эт можно продать? 0 если не продаваемый"
+  },
+  "What is the minimum level a user must be for this item? 0 for no minimum": {
+    "fr": "Quel est le niveau minimum pour acheter cet item ? 0 pour aucun minimum",
+    "ru": "Каков минимальный уровень для покупки предмета? 0 без ограничения"
+  },
+  "You can't make an item with 0 for every value! Cancelling, try again.": {
+    "fr": "Vous ne pouvez pas créer un item avec 0 pour chaque valeur ! Annulation, réessayez.",
+    "ru": "Вы не можете установить везде 0!Перезагрузка, попробуйте с начала!"
+  },
+  "Timed out! Cancelling": {
+    "fr": "Fin du temps ! Annulation",
+    "ru": "Время вышло!закрываю"
+  },
+  "Guild shop updated": {
+    "fr": "Shop actualisée",
+    "ru": "Магазин гильдии обновлен"
+  },
+  "That item isn't listed!": {
+    "fr": "Cet item n'est pas listé !",
+    "ru": "Этот предмет не указан!"
+  },
+  "Successfully removed item": {
+    "fr": "L'item a éte supprimé avec succès",
+    "ru": "Предмет успешно удален"
+  },
+  "This item cannot be bought!": {
+    "fr": "Cet item ne peut pas être acheté !",
+    "ru": "Этот предмет не может быть куплен"
+  },
+  "You aren't high enough level for this item!": {
+    "fr": "Vous n'êtes pas à un niveau assez élevé !",
+    "ru": "У вас не хватает уровня для покупки этого предмета!"
+  },
+  "You can't afford this many!": {
+    "fr": "Vous ne pouvez pas en acheter autant !",
+    "ru": "Вам не хватает денег для покупки!"
+  },
+  "Successfully bought {} {}s": {
+    "fr": "Vous avez acheté {} {}s avec succès !",
+    "ru": "Успешно куплено {} {}s!"
+  },
+  "This item cannot be sold!": {
+    "fr": "Cet item ne peut pas être vendu",
+    "ru": "Этот предмет не может быть продан!"
+  },
+  "You don't have enough to sell": {
+    "fr": "Vous n'avez pas assez à vendre",
+    "ru": "У вас не хватает предметов для продажи!"
+  },
+  "Successfully sold {} {}s": {
+    "fr": "Vous avez vendu {} {}s",
+    "ru": "Успешно продано {} {}s"
+  },
+  "This channel already has a bid going!": {
+    "fr": "Une enchère est déjà en cours sur ce channel !"
+  },
+  "You do not have x{} {}!": {
+    "fr": "Vous n'avez pas x{} {} !",
+    "ru": "У вас нет x{} {}!"
+  },
+  "{} Has started a bid for x{} {} starting at {} dollars\nBid runs for 60 seconds `rp!bid` to place a bid!": {
+    "fr": "{} a commencé une enchère pour x{} {}, commençant à {} dollars\nL'enchère dure 60 secondes, tapez `rp!bid` enchérir !",
+    "ru": "{} запустил ставку для x{} {}, начиная с x{} {}\nBid напиши 'rp!bid' , что бы сделать ставку!"
+  },
+  "Bid over!": {
+    "fr": "L'enchère est finie!",
+    "ru": "Ставка закончена!"
+  },
+  "{} won the bid for {} dollars!": {
+    "fr": "{} a gagné l'enchère pour {} dollars",
+    "ru": "{} выйграл ставку ценой в {} dollars"
+  },
+  "Nobody bid and had enough money to pay for it!": {
+    "fr": "Personne n'a enchéri et n'a pu se l'acheter !",
+    "ru": "Никто не предлагал и ни укого нет денег, чтобы заплатить за это!"
+  },
+  "User does not have a guild!": {
+    "fr": "L'utilisateur n'a pas de guilde !",
+    "ru": "Пользованель не имеет гильдий"
+  },
+  "That guild doesn't exist here!": {
+    "fr": "Cette guilde n'existe pas ici !",
+    "ru": "Такой гильдии не существует!"
+  },
+  "\nAnd {} more...": {
+    "fr": "\nEt {} plus...",
+    "ru": "\nИ {} далее..."
+  },
+  "This guild doesn't have a description": {
+    "fr": "Cette guilde n'a pas de description !",
+    "ru": "У этой гильдии нет описания!"
+  },
+  "Open": {
+    "fr": "Ouvert",
+    "ru": "Открыто"
+  },
+  "Bank Balance": {
+    "fr": "Solde Bancaire",
+    "ru": "Денежный счет"
+  },
+  "Members": {
+    "fr": "Membres",
+    "ru": "Члены"
+  },
+  "Items": {
+    "fr": "Items",
+    "ru": "Предметы"
+  },
+  "None": {
+    "fr": "Aucun",
+    "ru": "Никто"
+  },
+  "No guilds to display.": {
+    "fr": "Aucune guilde à afficher.",
+    "ru": "Гильдии отсутствуют"
+  },
+  "Server Guilds": {
+    "fr": "Guildes du serveur",
+    "ru": "Гильдии сервера"
+  },
+  "Owner: {}\nMembers: {}\nOpen: {}": {
+    "fr": "Propriétaire : {}\nMembres : {}\nOuvert : {}",
+    "ru": "Владелец: {}\nЧленов: {}\nОткрыто: {}"
+  },
+  "You're already in a guild! Leave this guild to create a new one": {
+    "fr": "Vous êtes déjà dans une guilde ! Quittez votre guilde pour en créer une nouvelle !",
+    "ru": "Вы уже в гильдии! Покиньте гильдию, чтобы создать новую"
+  },
+  "A guild with this name already exists!": {
+    "fr": "Une guilde avec ce nom existe déjà !",
+    "ru": "Гильдия с таким именем уже существует!"
+  },
+  "You already own a guild!": {
+    "fr": "Vous avez déjà une guilde !",
+    "ru": "Вы уже владеете гильдией!"
+  },
+  "'cancel' or 'skip' to cancel creation or skip a step": {
+    "fr": "'cancel' ou 'skip' pour annuler ou sauter une étape",
+    "ru": "'cancle' для закрытия создания или 'skip' для пропуска шага"
+  },
+  "Describe the Guild (guild description)": {
+    "fr": "Décrivez la guilde (description de la guilde)",
+    "ru": "Опиши гильдию"
+  },
+  "Is this guild open to everyone? Or is an invite necessary? (yes or no, no is assumed)": {
+    "fr": "Est-ce que la guilde est ouverte à tout le monde ? Ou est-ce qu'une invitation est obligatoire ? (yes (ouverte) ou no (invitation nécessaire), non est par défaut)",
+    "ru": "Эта гильдия для всех? Или необходимо приглащение? ('yes' да, 'no' нет, 'no is assumed' не принемаются)"
+  },
+  "If you'd like give a URL to an image for the guild": {
+    "fr": "Si vous le voulez, vous pouvez mettre l'URL d'une image pour la guilde"
+  },
+  "That isn't a valid URL!": {
+    "fr": "Ce n'est pas une URL valide !"
+  },
+  "Finally, you can also set an icon for the guild": {
+    "fr": "Enfin, vous pouvez aussi définir une icône pour la guilde"
+  },
+  "Guild successfully created!": {
+    "fr": "Guilde créée avec succès !"
+  },
+  "You're already in a guild! Leave this guild to join a new one": {
+    "fr": "Vous êtes déjà dans une guilde ! Quittez votre guilde pour en rejoindre une nouvelle !"
+  },
+  "That guild doesnt exist!": {
+    "fr": "Cette guilde n'existe pas !"
+  },
+  "This guild is closed and you don't have an invite!": {
+    "fr": "Cette guilde est fermée et vous n'avez pas d'invitation !"
+  },
+  "Guild joined!": {
+    "fr": "Guilde rejointe !"
+  },
+  "You aren't in a guild!": {
+    "fr": "Vous n'êtes pas dans une guilde !"
+  },
+  "Guild will be deleted is this alright? {yes / no}": {
+    "fr": "Le guilde sera supprimée, êtes-vous sûr ? {yes (oui) / no (non)}"
+  },
+  "Deleting!": {
+    "fr": "Supprimée !"
+  },
+  "Guild left.": {
+    "fr": "Vous avez quitté la guilde."
+  },
+  "You do not own this guild!": {
+    "fr": "Vous ne possédez pas cette guilde !"
+  },
+  "User isn't in this guild!": {
+    "fr": "L'utilisateur n'est pas dans cette guilde !"
+  },
+  "User kicked": {
+    "fr": "Utilisateur kické"
+  },
+  "Sent a guild invite to {}": {
+    "fr": "Vous avez envoyé une invitation de guilde à {}"
+  },
+  "Are you sure you want to delete the guild? {yes/no}": {
+    "fr": "Êtes-vous sûr de vouloir supprimer la guilde ? {yes (oui) / no (non)}"
+  },
+  "Alright then!": {
+    "fr": "Très bien !"
+  },
+  "Guild removed!": {
+    "fr": "Guilde supprimée !"
+  },
+  "You don't have enough to deposit!": {
+    "fr": "Vous n'en avez pas assez pour en déposer"
+  },
+  "Successfully deposited {} dollars into {}'s bank": {
+    "fr": "{} dollars déposé dans la banque de {} avec succès !"
+  },
+  "Only mods can withdraw money!": {
+    "fr": "Seuls les modérateurs peuvent retirer de l'argent !"
+  },
+  "Cannot withdraw more than the guild has!": {
+    "fr": "Vous ne pouvez pas retirer plus que ce que la guilde possède !"
+  },
+  "Successfully withdrew {} dollars": {
+    "fr": "Vous avez retiré {} dollars avec succès !"
+  },
+  "Only the guild owner can add mods": {
+    "fr": "Seul le propriétaire de la guilde peut ajouter des modérateurs !"
+  },
+  "{} couldn't be added! Not in guild!": {
+    "fr": "{} n'a pas pu être ajouté ! Il n'est pas dans la guilde !"
+  },
+  "Successfully added mods!": {
+    "fr": "Modérateurs ajoutés avec succès !"
+  },
+  "You don't have enough to give!": {
+    "fr": "Vous n'en avez pas assez pour en donner"
+  },
+  "Successfully deposited items!": {
+    "fr": "Items deposés avec succès !"
+  },
+  "Only mods can withdraw items!": {
+    "fr": "Seuls les modérateurs peuvent retirer des items !"
+  },
+  "The guild does not have enough items to take!": {
+    "fr": "La guilde n'a pas assez d'items pour en retirer !"
+  },
+  "Successfully withdrew items": {
+    "fr": "Items retirés avec succès !"
+  },
+  "Only the owner can toggle this!": {
+    "fr": "Seul le propriétaire peut changer ça !"
+  },
+  "Guild is now {}": {
+    "fr": "La guilde est maintenant {}"
+  },
+  "open": {
+    "fr": "ouverte"
+  },
+  "closed": {
+    "fr": "fermée"
+  },
+  "Only guild mods may set this!": {
+    "fr": "Seuls les modérateurs peuvent changer ça !"
+  },
+  "Updated guild icon url!": {
+    "fr": "Vous avez mis à jour l'URL de l'icone !"
+  },
+  "Updated guild image url!": {
+    "fr": "Vous avez mis à jour l'URL de l'image !"
+  },
+  "Updated guild's description!": {
+    "fr": "Vous avez mis à jour la description de la guilde !"
+  },
+  "Successfully transferred ownership": {
+    "fr": "Vous avez changé le propriétaire de la guilde !"
+  },
+  "yes": {
+    "fr": "oui"
+  },
+  "no": {
+    "fr": "non"
+  },
+  "This inventory is empty!": {
+    "fr": "Cet inventaire est vide !"
+  },
+  "Items taken!": {
+    "fr": "Items pris !"
+  },
+  "That is not a valid item!": {
+    "fr": "Cet item n'est pas valide !"
+  },
+  "Items given!": {
+    "fr": "Items donnés !"
+  },
+  "Successfully gave {0} {1}": {
+    "fr": "Vous avez donné {1} {0} avec succès !"
+  },
+  "You do not have enough to give away!": {
+    "fr": "Vous n'en avez pas assez pour en donner !"
+  },
+  "This item is not usable!": {
+    "fr": "Cet item n'est pas utilisable !"
+  },
+  "Used {} {}s": {
+    "fr": "Vous avez utilisé {} {}(s)"
+  },
+  "You do not have that many to use!": {
+    "fr": "Vous n'en avez pas assez pour l'utiliser !"
+  },
+  "No current lootboxes": {
+    "fr": "Il n'y a actuellement aucune lootbox"
+  },
+  "Lootbox already exists, updating...": {
+    "fr": "La lootbox existe déjà, mise à jour !"
+  },
+  "Lootbox {} successfully created and requires {} {} to open.": {
+    "fr": "La lootbox {} a été créé avec succès et a besoin de {} {} pour ouvrir."
+  },
+  "Lootbox {} successfully created and requires {} dollars to open": {
+    "fr": "La lootbox {} a été créé avec succès et a besoin de {} dollars pour ouvrir."
+  },
+  "That is not a valid lootbox": {
+    "fr": "Ce n'est pas une lootbox valide"
+  },
+  "You do not have {} {}": {
+    "fr": "Vous n'avez pas {} {}"
+  },
+  "You cant afford this box": {
+    "fr": "Vous ne pouvez pas acheter cette lootbox"
+  },
+  "You won a(n) {}": {
+    "fr": "Vous avez gagné un(e) {}"
+  },
+  "Lootbox removed": {
+    "fr": "Lootbox supprimée"
+  },
+  "Invalid loot box": {
+    "fr": "Cette lootbox est invalide !"
+  },
+  "x or y cannot exceed 64 and must be at least 2!": {
+    "fr": "x et y ne peuvent pas dépasser 64 et doivent être d'au moins 2 !"
+  },
+  "xmax must be at least 2 or be -1!": {
+    "fr": "xmax doit être d'au moins 2 ou être -1 !"
+  },
+  "ymax must be at least 2 or be -1!": {
+    "fr": "ymax doit être d'au moins 2 ou être -1 !"
+  },
+  "Only Patrons may make maps larger than 64x64 tiles!": {
+    "fr": "Seuls les Patrons peuvent faire des cartes plus grandes que 64x64"
+  },
+  "You may not make maps greater than 512x512 unless they are infinite!": {
+    "fr": "Vous ne pouvez pas faire des cartes plus grandes que 512x512 sauf si elles sont infinies !"
+  },
+  "Only higher tier Patrons may make maps greater than 256x256": {
+    "fr": "Seuls les Patrons à un niveau supérieur peuvent faire les cartes plus grandes que 256x256"
+  },
+  "Infinite maps are reserved for certain Patrons! See https://www.patreon.com/henry232323": {
+    "fr": "Les cartes infinies sont réservées pour certains Patrons ! Plus d'info : https://www.patreon.com/henry232323"
+  },
+  "You can only make one Infinite Map at this Patron level! Upgrade to make a second": {
+    "fr": "Vous ne pouvez faire qu'une carte infinie à ce niveau de Patron ! Passez au rang supérieur pour en faire une autre"
+  },
+  "You cannot make more than 2 infinite maps! (Ask Henry if you really want it)": {
+    "fr": "Vous ne pouvez pas faire plus de 2 cartes infinies ! (Demandez à Henry si vous le voulez vraiment)"
+  },
+  "You cannot make more than 10 maps as of now! (Ask Henry if you really want it)": {
+    "fr": "Vous ne pouvez pas faire plus de 10 cartes ! (Demandez à Henry si vous le voulez vraiment)"
+  },
+  "You cannot make more than 5 maps unless you are a higher level Patron!": {
+    "fr": "Seuls les Patrons à un niveau supérieur peuvent faire plus de 5 cartes !"
+  },
+  "Only Patrons may make more than 3 maps! See https://www.patreon.com/henry232323": {
+    "fr": "Seuls les Patrons peuvent faire plus de 5 cartes ! Plus d'info : https://www.patreon.com/henry232323"
+  },
+  "You can not have more than 3 maps unless you are a Patron! (For now)": {
+    "fr": "Vous ne pouvez pas avoir plus de 3 cartes sauf si vous êtes un Patron ! (Pour le moment)"
+  },
+  "What available tiles will there be? Say `done` when done. Use the * tile to describe all tiles when adding what will spawn. One at a time send the name of the tile. e.g. grassland": {
+    "fr": "Quelles seront les tiles disponibles ici ? Tapez `done` quand vous avez fini. Utilisez * pour dire toutes les tiles. Une à la fois envoie le nom de la tile, exemple : grassland"
+  },
+  "What kind of tile is it? Say `done` when done": {
+    "fr": "Quel type de tile est-ce ? Tapez `done` quand vous avez fini!"
+  },
+  "What things might spawn in those tiles? Split terms with commas. (Equal chance of each, repeat a term for greater chance) `skip` to skip": {
+    "fr": "Quelles choses pourraient spawner dans ces tiles ? Séparez les termes avec des virgules. (Égalité de chance, répétez un terme pour une plus grande chance) `skip` pour passer"
+  },
+  "Map created with name {}": {
+    "fr": "Carte créée avec le nom {}"
+  },
+  "xsize must be at least 2!": {
+    "fr": "xsize doit être d'au moins 2"
+  },
+  "ysize must be at least 2!": {
+    "fr": "ysize doit être d'au moins 2"
+  },
+  "Map created!": {
+    "fr": "Carte créée !"
+  },
+  "Map {} successfully deleted.": {
+    "fr": "Carte {} supprimée avec succès."
+  },
+  "This map does not exist!": {
+    "fr": "Cette carte n'existe pas !"
+  },
+  "You can't move any further this direction, you've hit the border!": {
+    "fr": "Vous ne pouvez plus aller dans cette direction, vous êtes déjà à la limite !"
+  },
+  "You cannot move any further in this direction!": {
+    "fr": "Vous ne pouvez plus aller dans cette direction !"
+  },
+  "You enter a {}. You see {}": {
+    "fr": "Vous entrez un(e) {}. Vous voyez {}"
+  },
+  "You acquired {}": {
+    "fr": "Vous avez obtenu un(e) {}"
+  },
+  "This tile has a shop that sells: {}": {
+    "fr": "Cette tile a un shop qui vend: {}"
+  },
+  "This shop sells no such item!": {
+    "fr": "Ce shop ne vend aucun item de ce type !"
+  },
+  "There is no shop here!": {
+    "fr": "Il n'y a pas de shop ici !"
+  },
+  "This command needs to have a file attached!": {
+    "fr": "Cette commande a besoin d'un fichier !"
+  },
+  "This file is too large!": {
+    "fr": "Ce fichier est trop gros !"
+  },
+  "Too many dice! Cant roll that many!": {
+    "fr": "Trop de dés ! Vous ne pouvez pas en lancer autant!"
+  },
+  "That die has much too many sides!": {
+    "fr": "Ce dé a beaucoup trop de côtés!"
+  },
+  "{} is too big a number!": {
+    "fr": "{} est un chiffre trop grand"
+  },
+  "suceeded": {
+    "fr": "a réussi !"
+  },
+  "failed": {
+    "fr": "a échoué"
+  },
+  " (Grabbed top {} out of {})": {
+    "fr": " (Pris le top {} sur {})"
+  },
+  "Invalid syntax!": {
+    "fr": "Syntaxe invalide !"
+  },
+  "Author": {
+    "fr": "Auteur"
+  },
+  "Library": {
+    "fr": "Bibliothèque"
+  },
+  "Uptime": {
+    "fr": "Uptime"
+  },
+  "Servers": {
+    "fr": "Serveurs"
+  },
+  "Commands Run": {
+    "fr": "Commandes exécutées"
+  },
+  "{} servers": {
+    "fr": "{} serveurs"
+  },
+  "{} commands": {
+    "fr": "{} commandes"
+  },
+  "Total Members": {
+    "fr": "Membres (total)"
+  },
+  "Unique Members": {
+    "fr": "Membres (uniques)"
+  },
+  "{} ({} online)": {
+    "fr": "{} ({} en ligne)"
+  },
+  "Channels": {
+    "fr": "Channels"
+  },
+  "{} text channels, {} voice channels": {
+    "fr": "{} channels (texte), {} channels vocaux"
+  },
+  "Shards": {
+    "fr": "Shards"
+  },
+  "Currently running {} shards. This server is on shard {}": {
+    "fr": "Il y a {} shards en cours d'exécution. Ce serveur utilise la shard {}"
+  },
+  "CPU Percentage": {
+    "fr": "CPU Pourcentage"
+  },
+  "Memory Usage": {
+    "fr": "Utilisation de la Mémoire"
+  },
+  "Observed Events": {
+    "fr": "Événements Observés"
+  },
+  "Ping": {
+    "fr": "Ping"
+  },
+  "Source": {
+    "fr": "Source"
+  },
+  "Made with discord.py": {
+    "fr": "Créé avec discord.py"
+  },
+  "Could not find the command ": {
+    "fr": "La commande n'a pas pu être trouvée"
+  },
+  "{0.name} command has no subcommands": {
+    "fr": "La commande {0.name} n'a aucune sous-commande"
+  },
+  "Keeping the bots running takes money, if several people would buy me a coffee each month, I wouldn't have to worry about it coming out of my pocket. If you'd like, you can donate to me here: https://ko-fi.com/henrys": {
+    "fr": "Pour garder les bots en ligne, cela nécessite de l'argent. Si plusieurs personnes m'achetaient un café tous les mois, je n'aurais pas de problème à payer de ma poche. Si vous le souhaitez, vous pouvez me faire un don ici : https://ko-fi.com/henrys"
+  },
+  "That is not a valid language!": {
+    "fr": "Ce n'est pas une langue valide !"
+  },
+  "Language successfully set!": {
+    "fr": "Langue définie avec succis !"
+  },
+  "The guild language is set to {}": {
+    "fr": "La langue de la guilde est {}"
+  },
+  "Currency successfully set!": {
+    "fr": "Devise définie avec succis !"
+  },
+  "In any step type 'cancel' to cancel": {
+    "fr": "Pendant n'importe quelle étape, tapez `cancel` pour l'annuler"
+  },
+  "What will its nickname be?": {
+    "fr": "Quel sera son surnom ?"
+  },
+  "What species of Pokemon is it?": {
+    "fr": "De quel espèce de Pokémon est-il ?"
+  },
+  "In any order, what are its stats? (level, health, attack, defense, spatk, spdef, speed) For example `level: 5, health: 22, attack: 56` Type 'skip' to skip.": {
+    "fr": "Dans n'importe quel ordre, quelles sont ses stats? (level, health, attack, defense, spatk, spdef, speed) Par exemple : `level: 5, health: 22, attack: 56`. Tapez 'skip' pour passer."
+  },
+  "level": {
+    "fr": "niveau"
+  },
+  "health": {
+    "fr": "points de vie"
+  },
+  "attack": {
+    "fr": "attaque"
+  },
+  "defense": {
+    "fr": "defense"
+  },
+  "spatk": {
+    "fr": "atkspé"
+  },
+  "spdef": {
+    "fr": "defspé"
+  },
+  "speed": {
+    "fr": "vitesse"
+  },
+  "{} is not a valid stat! Try again": {
+    "fr": "{} n'est pas une stat valide ! Réessayez !"
+  },
+  "Any additional data? (Format like the above, for example nature: hasty, color: brown)": {
+    "fr": "Des informations supplémentaires ? (Par exemple: nature: précipité, color: marron)"
+  },
+  "Finished! Pokemon has been added to box with ID {}": {
+    "fr": "Fini ! Le Pokemon a été créé et ajouté à la boîte d'ID {}"
+  },
+  "Nickname": {
+    "fr": "Surnom"
+  },
+  "Species": {
+    "fr": "Espèce"
+  },
+  "Stats": {
+    "fr": "Stats"
+  },
+  "This Pokemon has been released! Goodbye {}!": {
+    "fr": "Ce Pokemon a été libéré ! Adieu, {} !"
+  },
+  "Say rp!accept or rp!decline to respond to the trade!": {
+    "fr": "Tapez rp!accept (pour accepter) ou rp!decline (pour refuser) l'échange"
+  },
+  "Failed to respond in time! Cancelling.": {
+    "fr": "Vous n'avez pas répondu à temps ! Annulation !"
+  },
+  "{} is not a valid ID!": {
+    "fr": "{} n'est pas un ID valide !"
+  },
+  "Trade completed! Traded {} for {}!": {
+    "fr": "Échange completé ! Vous avez échangé {} pour {} !"
+  },
+  "Trade declined! Cancelling.": {
+    "fr": "Échange refusé ! Annulation."
+  },
+  "There are no current salaries on this server": {
+    "fr": "Il n'y a actuellement aucun salaire sur ce serveur"
+  },
+  "That role does not have a salary!": {
+    "fr": "Ce rôle n'a pas de salaire !"
+  },
+  "{} has a daily salary of {}": {
+    "fr": "{} a un salaire de {}"
+  },
+  "Successfully created a daily salary of {} for {}": {
+    "fr": "Le salaire quotidien de {} pour {} a été créé avec succès"
+  },
+  "Successfully deleted the daily salary for {}": {
+    "fr": "Le salaire quotidien pour {} a été supprimé avec succès"
+  },
+  "That role has no salaries!": {
+    "fr": "Ce role n'a pas de salaire !"
+  },
+  "Guild Salaries": {
+    "fr": "Salaires de la Guilde"
+  },
+  "Starting Money": {
+    "fr": "Argent de base"
+  },
+  "Characters": {
+    "fr": "Personnages"
+  },
+  "Maps": {
+    "fr": "Cartes"
+  },
+  "characters": {
+    "fr": "Personnages"
+  },
+  "Item doesnt exist!": {
+    "fr": "Cet item n'existe pas !"
+  },
+  "No items to display": {
+    "fr": "Aucun item à afficher"
+  },
+  "Describe the item (a description for the item)": {
+    "fr": "Decrivez l'item (une description pour l'item)"
+  },
+  "Additional information? (Attributes formatted in a list e.g `color: 400, value: 200` Set an image for this item with the `image` key e.g. `image: http://image.com/image.png` Set this item as usable by adding `used` key e.g. `used: You open the jar and the bird flies away`": {
+    "fr": "Des informations supplémentaires ? (Attributs écrits dans une liste, par exemple : `color: green, cout: 300` Ajouter une image pour cet item avec la clé `image`, par exemple : `image: http://image.com/image.png` Ajouter cet item comme utilisable en ajoutant la clé `used`, par exemple : `used: Vous ouvrez le jar et l'oiseau s'envole`"
+  },
+  "Item successfully created": {
+    "fr": "Item créé avec succès"
+  },
+  "Successfully removed {}": {
+    "fr": "{} supprimé avec succès"
+  },
+  "That item doesn't exist": {
+    "fr": "Cet item n'existe pas"
+  },
+  "Starting amount changed to {} dollars": {
+    "fr": "Montant de base changé a {} dollars"
+  },
+  "items": {
+    "fr": "items"
+  },
+  "ID: {}\nSpecies: {}\nStats:\n\t{}\nAdditional Info:\n\t{}": {
+    "fr": "ID: {}\nEspèce: {}\nStats:\n\t{}\nInformations Supplimentaires:\n\t{}"
+  },
+  "That Pokemon is already a part of the team!": {
+    "fr": "Ce Pokemon fait déjà parti de l'équipe !"
+  },
+  "Added to team!": {
+    "fr": "Ajouté à l'équipe !"
+  },
+  "That character does not exist!": {
+    "fr": "Ce personnage n'existe pas !"
+  },
+  "Successfully removed Pokemon!": {
+    "fr": "Le Pokémon a été supprimé avec succès !"
+  },
+  "Balance": {
+    "fr": "Solde Bancaire"
+  },
+  "Box": {
+    "fr": "Boîte"
+  },
+  "Experience": {
+    "fr": "Expérience"
+  },
+  "Level: {}\nExperience: {}/{}": {
+    "fr": "Niveau: {}\nExpérience: {}/{}"
+  },
+  "Set level for members": {
+    "fr": "Le niveau pour les membres a été défini"
+  },
+  "Gave experience to members": {
+    "fr": "De l'expérience a été donnée aux membres"
+  },
+  "{0} is now level {1}!": {
+    "fr": "{0} maintenant a le niveau de {1} !"
+  },
+  "This bot costs $300/yr to run. If you like the utilities it provides, consider buying me a coffee <https://ko-fi.com/henrys> or subscribe as a Patron <https://www.patreon.com/henry232323> Also consider upvoting the bot to help us grow <https://discordbots.org/bot/305177429612298242>":{
+    "fr": "Faire tourner le bot coûte $300. Si vous aimez les services qu'il a, considerez de m'acheter un café <https://ko-fi.com/henrys> ou abonnez-vous comme un Patron <https://www.patreon.com/henry232323> Aussi considerez upvoter le bot pour nous aider grandir <https://discordbots.org/bot/305177429612298242>"
+  },
+  "No Items": {
+    "fr": "Aucun item"
+  },
+  "\nand {} more...": {
+    "fr": "\nEt {} plus..."
+  },
+  "{} failed to respond": {
+    "fr": "{} n'a pas repondu !"
+  },
+  "Both parties say rp!accept @Other to accept the trade or rp!decline @Other to decline": {
+    "fr": "Vous deux dites rp!accept @Autre pour accepter l'echange ou rp!decline @Autre pour refuser"
+  },
+  "Response one received!": {
+    "fr": "La premiere reponse est reçue"
+  },
+  "Failed to accept in time!": {
+    "fr": "Vous n'avez pas accepté à temps"
+  },
+  "Trade declined, cancelling!": {
+    "fr": "L'échange a été refusé, annulant"
+  },
+  "Response two received!": {
+    "fr": "La premiere reponse est reçue"
+  },
+  "Invalid value for number {} of {}": {
+    "fr": "Valeur non valide pour le nombre {} de {}"
+  },
+  "{} does not have enough {} to trade! Trade cancelled!": {
+    "fr": "{} n'a pas assez {} pour echanger! L'echange est annulle"
+  },
+  "Swapping items": {
+    "fr": "Les items ont été échangé"
+  },
+  "Trade complete!": {
+    "fr": "L'échange est complet"
+  }
+}
