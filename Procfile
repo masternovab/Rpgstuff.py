@@ -1,1 +1,1 @@
-worker: PPGbot.py
+worker: PPGBot.py
